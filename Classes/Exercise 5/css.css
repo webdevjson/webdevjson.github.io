@@ -1,0 +1,23 @@
+body {
+  font-family: "Be Vietnam Pro";
+  color: white;
+}
+
+.heading {
+  text-align: center;
+}
+
+.para {
+  text-align: justify;
+}
+
+.bgimage {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://i0.wp.com/images-prod.healthline.com/hlcmsresource/images/AN_images/healthy-eating-ingredients-1296x728-header.jpg?w=1155&h=1528");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}

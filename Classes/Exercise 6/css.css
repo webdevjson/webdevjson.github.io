@@ -1,0 +1,31 @@
+.body {
+  background-image: url("https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2018/05/Gradient-Round-Up-Featured-Image.jpg");
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+}
+
+.heading {
+  font-family: "Be Vietnam Pro";
+  color: white;
+  text-align: center;
+
+  font-size: 35px;
+}
+
+.abouth1 {
+  font-family: "Be Vietnam Pro";
+  text-align: center;
+}
+
+.para1 {
+  font-size: xx-large;
+}
+
+.sustainabilityh1 {
+  font-family: "Be Vietnam Pro";
+  text-align: center;
+}

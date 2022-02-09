@@ -1,0 +1,21 @@
+body {
+  font-family: "Comic Sans MS";
+}
+
+h1 {
+  text-align: center;
+}
+
+.h4h {
+  font-weight: bold;
+  text-decoration: underline;
+  padding-left: 1%;
+}
+
+.para {
+  padding-left: 1%;
+}
+
+img {
+  image-rendering: center;
+}
